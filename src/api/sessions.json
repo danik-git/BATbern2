@@ -2453,7 +2453,7 @@
   },
   {
     "bat": 56,
-    "pdf": "",
+    "pdf": "https://de.slideshare.net/slideshow/batbern56-die-architektur-der-intelligenten-zukunft-vom-code-zum-kooperativen-agenten/281739786",
     "title": "Die Architektur der intelligenten Zukunft: Vom Code zum kooperativen Agenten",
     "abstract": "Die GenAI-Experimente sind vorbei. Wir alle haben gesehen, was möglich ist. Die Frage ist nicht mehr \"ob\", sondern \"wie\". Wie schaffen wir echten, skalierbaren Business-Wert? Wie bauen wir Architekturen, die nicht in einem Jahr veraltet sind? Jede intelligente Anwendung beginnt mit Wissen. Aber Wissen ist mehr als nur Text. Unsere Welt ist multimodal – Bilder, Videos, Sensordaten. Die nächste Stufe der KI-Architektur muss diese Vielfalt verarbeiten können, um wirklich transformative Lösungen zu schaffen. Die Rolle des IT-Architekten wandelt sich vom \"Klempner des Datenflusses\" zum \"Komponisten eines intelligenten Orchesters\". Die Aufgabe ist, die richtigen Agenten zu entwerfen, ihnen die richtigen Ziele zu geben und die Leitplanken für ihre Zusammenarbeit zu definieren.",
     "referenten": [
@@ -2473,7 +2473,7 @@
   },
   {
     "bat": 56,
-    "pdf": "",
+    "pdf": "https://de.slideshare.net/slideshow/batbern56-rag-in-produktion-bei-der-mobiliar/281739919",
     "title": "RAG in Produktion",
     "abstract": "Allgemeine Versicherungsbedingungen (AVBs) sind dutzende Seiten umfassende PDFs und dementsprechend nicht Kunden- und Prozessfreundlich. Wie kann eine effizientere Informationsbeschaffung und Prozessverbesserung ermöglicht werden? Im Fokus stehen die Nutzung von XML-Daten, KI-gestützten Q&A-Systemen und der Ansatz der Retrieval-Augmented Generation (RAG), um strukturelle Informationen zu bewahren und relevante Inhalte schnell zugänglich zu machen. Es wird aufgezeigt, wie diese Ansätze die bisherigen Einschränkungen von PDF-Viewern überwinden und eine skalierbare Grundlage für zukünftige Anwendungen schaffen. Lessons Learned und ein Ausblick auf weitere Use Cases runden den Vortrag ab.",
     "referenten": [
@@ -2487,7 +2487,7 @@
   },
   {
     "bat": 56,
-    "pdf": "",
+    "pdf": "https://de.slideshare.net/slideshow/batbern56-genai-beim-bund-wie-das-bafu-komplexe-anfragen-meistert/281739742",
     "title": "GenAI beim Bund: Wie das BAFU komplexe Anfragen meistert!",
     "abstract": "Das Bundesamt für Umwelt (BAFU) modernisiert seine Arbeitsweise mit einem innovativen, auf Generativer KI basierenden digitalen Assistenten. Mithilfe RAG-Technologie (Retrieval-Augmented Generation) und Agenten verknüpft das System interne und externe Datenquellen und unterstützt Mitarbeitende bei der effizienten Bearbeitung komplexer Anfragen, der Bildanalyse und der Dokumentenauswertung. In dieser Präsentation erhalten Sie Einblicke in die technische Umsetzung des Projekts, das das BAFU gemeinsam mit ipt auf AWS und Amazon Bedrock realisiert hat. Dabei beleuchten wir nicht nur die technologischen Aspekte, sondern widmen uns auch den kritischen Themen Datenschutz und IT-Sicherheit in der Bundesverwaltung.",
     "referenten": [
@@ -2507,7 +2507,7 @@
   },
   {
     "bat": 56,
-    "pdf": "",
+    "pdf": "https://de.slideshare.net/slideshow/batbern56-rechtskonformer-einsatz-von-genai/281739611",
     "title": "Rechtskonformer Einsatz von GenAI",
     "abstract": "Der rechtskonforme Einsatz generativer KI (GenAI) erfordert eine sorgfältige Beurteilung diverser Vorgaben nach Schweizer und EU-Recht. Der Vortrag analysiert zentrale Regelungswerke und beleuchtet deren Bedeutung für Entwicklung und Nutzung von GenAI-Systemen.",
     "referenten": [
@@ -2521,7 +2521,7 @@
   },
   {
     "bat": 56,
-    "pdf": "",
+    "pdf": "https://de.slideshare.net/slideshow/batbern56-vom-experiment-zur-wirkung-die-ki-initiative-im-isc-ejpd/281739868",
     "title": "Vom Experiment zur Wirkung – Die KI-Initiative im ISC-EJPD",
     "abstract": "Wie bringt man Künstliche Intelligenz in einem sicherheitsrelevanten Umfeld wie dem EJPD zum Fliegen? Im Jahr 2024 hat das ISC-EJPD die Initiative „KI in der Praxis erleben“ gestartet – mit dem Ziel, KI-Technologien nicht nur theoretisch zu verstehen, sondern in der eigenen Systemlandschaft zu praxisnah zu erproben. Nach einer breiten Schulung wurden mehrere konkrete «Experimente» von verschiedenen Teams umgesetzt.  Auch wenn die Initiative nicht auf eine Produktivsetzung abzielte, sind heute mehrere Lösungen in der aktiven Nutzung – und der Lerneffekt war enorm. Der Vortrag zeigt, wie man eine KI-Initiative im öffentlichen, sensitiven Sektor pragmatisch, sicher und nachhaltig aufgleisen kann – und was dabei wirklich zählt.",
     "referenten": [
@@ -2535,27 +2535,7 @@
   },
   {
     "bat": 56,
-    "pdf": "",
-    "title": "Virtueller Assistent RoBIT: Vom Servicedesk zur Supervisor-Agent-Architektur – GenAI im Support neu gedacht",
-    "abstract": "RoBIT ist der virtuelle Assistent des Bundesamts für Informatik und Telekommunikation (BIT). Über 40’000 Mitarbeitende der Bundesverwaltung können über den AI-basierten Support Chatbot Hilfe zu IT Problemen einholen. Wie lassen sich Komplexität, Skalierbarkeit und Nutzerzentrierung im IT-Support neu denken – jenseits klassischer Chatbots und Ticket-Tools?  In diesem Beitrag zeigen wir auf, wie wir im BIT ein Multi-Agenten-System mit einem Supervisor-Agent entwickelt haben, das die Rolle eines virtuellen Servicedesks übernimmt. Anhand eines interaktiven Rollenspiels demonstrieren wir die Herausforderungen im Support-Alltag und wie unsere GenAI-gestützte Architektur – inspiriert u.a. von LangGraph – diese adressiert. Der Fokus liegt auf dem praktischen Nutzen für Endnutzer und Supporter, dem zugrunde liegenden RAG-Design sowie den Lessons Learned aus dem Aufbau eines produktionsnahen GenAI-Ökosystems innerhalb der Bundesverwaltung.",
-    "referenten": [
-      {
-        "name": "Ralph Schroll, Bundesamt für Informatik und Telekommunikation (BIT)",
-        "bio": "Ralph Schroll ist Product Owner und Projektleiter beim Bundesamt für Informatik und Telekommunikation (BIT) mit über 20 Jahren IT-Erfahrung. Sein aktueller Schwerpunkt liegt auf der Entwicklung smarter Supportlösungen mit Generativer KI – etwa im Projekt RoBIT, wo digitale Assistenten auf Basis von Multi-Agent-Architekturen das Incident- und Knowledge-Management modernisieren. Ralph vereint technische Tiefe mit einem Gespür für Nutzerbedürfnisse, Kulturwandel und Prozessoptimierung. Mit seinem Hintergrund als Systemintegrator und seiner Leidenschaft für kreative, menschenzentrierte Lösungen bringt er innovative Ideen pragmatisch in die Umsetzung – stets mit dem Ziel: Give time back.",
-        "portrait": "RalphSchroll.jpg",
-        "company": "bit_logo.png"
-      },
-      {
-        "name": "Andreas Schneider, Innovation Process Technology AG (ipt)",
-        "bio": "Andreas Schneider ist promovierter Informatiker mit Fokus auf die Operationalisierung von KI-Systemen. Er entwickelt produktionsreife ML- und GenAI-Lösungen – von der Datenverarbeitung über Modelltraining bis zur Integration in skalierbare Cloud-Infrastrukturen. Als erfahrener ML-Architekt und Entwickler bringt er KI-Technologien zuverlässig in den produktiven Einsatz und sorgt mit durchdachten MLOps-Praktiken dafür, dass sie im Unternehmenskontext echten Mehrwert liefern.",
-        "portrait": "AndreasSchneider.jpg",
-        "company": "ipt.png"
-      }
-    ]
-  },
-  {
-    "bat": 56,
-    "pdf": "",
+    "pdf": "https://de.slideshare.net/slideshow/batbern56-trainvision-ein-ehrlicher-erfahrungsbericht-vom-prototyp-bis-zur-produktiven-losung/281739955",
     "title": "TrainVision – ein ehrlicher Erfahrungsbericht vom Prototyp bis zur produktiven Lösung",
     "abstract": "Train Vision, die Erfassung von Zugformationsinformationen mittels Computer Vision, begann als CAS-Arbeit mit dem Ziel, erste praktische Erfahrungen im Bereich Machine Learning und Deep Neural Networks zu sammeln. Doch es blieb nicht bei einem Experiment: Nach Abschluss der Arbeit entschieden wir uns, unser Know-how konsequent auszubauen – und wie lernt man besser, als Dinge selbst umzusetzen? Unser Ziel war es, die CAS-Arbeit in ein stabiles, produktionstaugliches System zu überführen. Der Weg dahin war jedoch alles andere als trivial: Von der Datenbeschaffung über tagelanges Training und den hartnäckigen Kampf gegen False Positives bis hin zur Reproduzierbarkeit von Ergebnissen brachte jede Phase eigene Herausforderungen mit sich. Besonders zentral war die Frage: Wie erreichen wir die für den Einsatz in einem produktiven Umfeld notwendige Genauigkeit? Dabei zeigte sich: Technische Exzellenz allein reicht nicht aus. Erst die Kombination mit durchdachter Business-Logik machte das System robust und alltagstauglich. Der Vortrag ist ein ehrlicher Erfahrungsbericht darüber, was es wirklich bedeutet, aus einem schnellen YouTube-Prototyp ein verlässliches Produktivsystem zu machen.",
     "referenten": [
@@ -2584,6 +2564,68 @@
         "bio": "Tagsüber leitet Simon Sax ein Team von Solution Architekten in der Cloud Advisory Division von Swisscom und berät Geschäftskunden bei Cloud- und Migrationsprojekten. Nachts widmet er sich leidenschaftlich seinen App- und Raspberry Pi-Projekten. Im vergangenen Jahr übernahm Simon die Verantwortung für die Gesamtarchitektur und den Aufbau der Datacenter-Infrastruktur der Swiss AI Platform. In früheren Positionen unterstützte er als Product Owner die Einführung des 5G-Mobilfunkstandards und war als technischer Stratege im CTO Office von Swisscom B2B tätig. Davor engagierte sich Simon in einem eigenen Startup und arbeitete in verschiedenen technischen Positionen bei Postfinance.",
         "portrait": "SimonSax.jpg",
         "company": "swisscom.jpg"
+      }
+    ]
+  },
+  {
+    "bat": 57,
+    "pdf": "",
+    "title": "Von der Theorie zur Praxis: Zero Trust bei der Schweizerischen Post",
+    "abstract": "Mit der zunehmenden Digitalisierung, Cloud-Transformation und verstärkter Remote-Arbeit wird der traditionelle Perimeter Ansatz obsolet. Jetzt ist es an der Zeit, den aktuellen Ansatz zur Cybersicherheit neu zu überdenken und eine alternative Denkweise zu berücksichtigen. Zero Trust fokussiert auf die gemeinsamen Vektoren aller Bedrohungen und nutzt verschiedene Signale, um ein multidimensionales Profil der zugreifenden Entität zu erstellen. Diese Präsentation beleuchtet die Schritte zur Realisierung von Zero Trust bei der Schweizerischen Post und zeigt anhand praktischer Beispiele, wie theoretische Konzepte in der Praxis umgesetzt werden.",
+    "referenten": [
+      {
+        "name": "Nikola Novoselec, die Schweizerische Post",
+        "bio": ".",
+        "portrait": "NikolaNovoselec.png",
+        "company": "logo_post.bmp"
+      }
+    ]
+  },
+  {
+    "bat": 57,
+    "pdf": "",
+    "title": "Secure Access Architecture SBB",
+    "abstract": "In Zeiten stetig steigender Sicherheitsrisiken ist die SBB mit der Secure Access Architecture auf ihrem Weg zu einer Zero Trust Architecture. In diesem Vortrag zeigen wir die Herausforderungen, das Zielbild der Secure Access Architecture und den aktuellen Stand.",
+    "referenten": [
+      {
+        "name": "Igor Masen, SBB",
+        "bio": "Igor Masen ist seit 2011 bei den SBB und hat in dieser Zeit diverse Positionen im Unternehmen eingenommen. Derzeit ist er der verantwortliche Architekt für die IT-Infrastruktur- und Plattformen der SBB und führt in dieser Position das Vorhaben rund um die Secure Access Architecture.",
+        "portrait": "IgorMasen.jpg",
+        "company": "sbb.jpg"
+      }
+    ]
+  },
+  {
+    "bat": 57,
+    "pdf": "",
+    "title": "Zero ‹implicit› Trust – Die Mobiliar auf dem Weg zu Zero Trust",
+    "abstract": "Mit der Digitalisierung, der Cloud-Transformation und den vielfältigen Bedürfnissen der verschiedenen Remote-Nutzergruppen lässt sich der Perimeter nicht mehr klar definieren. Der traditionelle, statische Sicherheitsansatz der Perimeterarchitektur ist nicht mehr ausreichend. Neue Sicherheitskonzepte und -ansätze sowie eine intelligente, vernetzte, datenzentrierte und automatisierbare Security, basierend auf dem Zero Trust-Konzept, werden notwendig, um diesen Veränderungen gerecht zu werden. Die Präsentation zeigt, wie die Mobiliar den Weg zu Zero Trust plant, wie sie den Fortschritt in diesem Bereich misst und welche Schritte in dieser Richtung unternommen werden.",
+    "referenten": [
+      {
+        "name": "Davide Cavadini, die Mobiliar",
+        "bio": "Davide Cavadini ist Leiter Sicherheitsarchitektur & Records Mgmt bei der Mobiliar, wo unter anderem die Themen Identity & Access Management, Zero Trust-Architektur, Records Management und DSG-Löschen behandelt und weiterentwickelt werden. Davide Cavadini hat das Sicherheitskonzept der Mobiliar massgeblich beeinflusst und über 15 Jahre Erfahrung in den Bereichen Security, Compliance und Risk Management gesammelt.",
+        "portrait": "DavideCavadini.jpg",
+        "company": "mobiliar.jpg"
+      }
+    ]
+  },
+  {
+    "bat": 57,
+    "pdf": "",
+    "title": "Zero Trust Konzept bei PostFinance",
+    "abstract": "PostFinance ist seit 3 Jahren in einem wichtigen Zero Trust Konzept beschäftigt. Nach einer 5 Jahren-Zielbild sind die ersten zwei wichtigsten Schritte (Security Service Edge und Mikrosegmentierung) in der Evaluation und Implementierungsphase gekommen. Die Präsentation thematisiert den PostFinance-Fokus auf den Sicherheit-Aspekten sowie die entsprechenden Prinzipien, Zielbild und Konzept der Lösung. Die wichtigsten technischen und organisatorischen Erkenntnisse sind am Schluss erwähnt.",
+    "referenten": [
+      {
+        "name": "Philippe Halbeisen, PostFinance",
+        "bio": "Philippe Halbeisen ist als IT-Architekt verantwortlich für die Definition sowie die optimale Einführung in betroffenen Vorhaben der Gesamten Security-Architektur innerhalb PostFinance.\nSeit 3 Jahren ist er unter anderem in der Zero Trust-Initiative mit dem Erstellen einer 5 Jahren Zielbild sowie die Begleitung der Mikrosegmentierung und SSE Evaluation und POC stark involviert.",
+        "portrait": "PhilippeHalbeisen.jpg",
+        "company": "logo-pf.jpg"
+      },
+      {
+        "name": "Mustapha Bouaaoud, PostFinance",
+        "bio": "Mustapha Bouaaoud leitet die IT-Architektur bei PostFinance und verantwortet zentrale Architekturthemen in den Bereichen Technologie, IT-Betrieb, Security, Integration, Cloud, Softwareentwicklung und KI. In seiner früheren Rolle als Lead Architekt leitete er die Modernisierung grosser Applikationen und den Übergang von monolithischen zu Microservice-Architekturen. Sein Fokus liegt auf nachhaltiger Modernisierung, technologischem und strategischem Wandel sowie der Einführung neuer Technologie-Stacks in komplexen IT-Landschaften.",
+        "portrait": "MustaphaBouaaoud.jpg",
+        "company": "logo-pf.jpg"
       }
     ]
   }
